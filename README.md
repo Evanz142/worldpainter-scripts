@@ -11,6 +11,9 @@ Instructions are below for each script. If you need further help, have suggestio
 ## Adjacent Water
 
 ## Fix Small Rivers
+
+![fixSmallRiversGIF](https://user-images.githubusercontent.com/47926489/198064107-86050c94-7e56-4c65-a02a-07ba39069383.gif)
+
 1. Download the script and put it into your world painter plugins folder (in world painter: Tools -> Open Plugin Directory)
 2. Select the script (in world painter: Tools -> Run Script)
 3. This script takes two parameters:
