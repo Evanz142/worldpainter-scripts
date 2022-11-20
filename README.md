@@ -7,9 +7,9 @@ This repository contains a collection of world painter scripts.
 Instructions are below for each script. If you need further help, have suggestions, or find a bug please message me on discord at Evmanz#1091
 
 ## Smooth Rivers
-
+- WIP
 ## Adjacent Water
-
+- WIP
 ## Fix Small Rivers
 
 ![fixSmallRiversGIF](https://user-images.githubusercontent.com/47926489/198064107-86050c94-7e56-4c65-a02a-07ba39069383.gif)
